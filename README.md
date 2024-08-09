@@ -23,4 +23,4 @@ The Flask server receives image data from the frontend, preprocesses it, and sen
 Azure's OCR technology is used to extract relevant text from nutrition labels. Since the number of calories is usually extracted inaccurately due to the formatting of labels, the frontend has features that allow users to confirm and adjust extracted measurements.
 
 ## Final Notes: 
-This project was primarily undertaken to learn and master new skills/tools, not for deployment. To run/experiment with this project yourself, you must set up your own Azure cloud instance, AWS resources, and Google Firebase instance. The necessary code is available in this repository.
+This project was primarily undertaken to learn and master new skills/tools, not for deployment. To run/experiment with this project yourself, you must set up your own Azure cloud instance, AWS resources, and Google Firebase instance and add the relevant information to a .env file. The necessary code is available in this repository.
